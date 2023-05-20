@@ -33,6 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 Link to deployed application:
+ https://mkundu16.github.io/Password-Generator-Challenge-3/
 
 
 ![Untitled](https://github.com/coding-boot-camp/friendly-parakeet/assets/131508495/74393a97-789d-415a-9af3-49692a28bbd5)
